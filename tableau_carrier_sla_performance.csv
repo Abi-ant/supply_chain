@@ -1,0 +1,73 @@
+order_region,shipping_mode,total_orders,total_late_orders,late_delivery_rate_pct,avg_actual_shipping_days,avg_scheduled_shipping_days,avg_delay_variance_days
+Southern Europe,First Class,507,507,100.0,2.0,1.0,1.0
+West of USA,First Class,376,376,100.0,2.0,1.0,1.0
+US Center,First Class,314,314,100.0,2.0,1.0,1.0
+South of  USA,First Class,187,187,100.0,2.0,1.0,1.0
+West Africa,First Class,139,139,100.0,2.0,1.0,1.0
+Eastern Asia,First Class,469,469,100.0,2.0,1.0,1.0
+Western Europe,First Class,1516,1516,100.0,2.0,1.0,1.0
+Southeast Asia,First Class,650,650,100.0,2.0,1.0,1.0
+Caribbean,First Class,392,392,100.0,2.0,1.0,1.0
+Eastern Europe,First Class,202,202,100.0,2.0,1.0,1.0
+Northern Europe,First Class,528,528,100.0,2.0,1.0,1.0
+Central America,First Class,1382,1382,100.0,2.0,1.0,1.0
+South America,First Class,724,724,100.0,2.0,1.0,1.0
+South Asia,First Class,523,523,100.0,2.0,1.0,1.0
+North Africa,First Class,150,150,100.0,2.0,1.0,1.0
+West Asia,First Class,316,316,100.0,2.0,1.0,1.0
+East of USA,First Class,342,342,100.0,2.0,1.0,1.0
+Oceania,First Class,566,566,100.0,2.0,1.0,1.0
+South of  USA,Second Class,271,226,83.39,4.07,2.0,2.07
+Eastern Asia,Second Class,597,492,82.41,4.07,2.0,2.07
+Caribbean,Second Class,513,420,81.87,4.04,2.0,2.04
+East Africa,Second Class,114,93,81.58,3.98,2.0,1.98
+North Africa,Second Class,195,159,81.54,3.98,2.0,1.98
+Western Europe,Second Class,1875,1513,80.69,4.05,2.0,2.05
+West Asia,Second Class,390,314,80.51,3.97,2.0,1.97
+Southern Europe,Second Class,641,514,80.19,3.96,2.0,1.96
+Southeast Asia,Second Class,813,650,79.95,4.0,2.0,2.0
+West of USA,Second Class,504,402,79.76,4.0,2.0,2.0
+South Asia,Second Class,647,516,79.75,4.06,2.0,2.06
+Northern Europe,Second Class,687,545,79.33,3.98,2.0,1.98
+South America,Second Class,899,713,79.31,4.01,2.0,2.01
+US Center,Second Class,375,297,79.2,3.93,2.0,1.93
+Oceania,Second Class,849,672,79.15,3.92,2.0,1.92
+Central America,Second Class,1748,1377,78.78,3.98,2.0,1.98
+East of USA,Second Class,413,325,78.69,4.0,2.0,2.0
+Eastern Europe,Second Class,256,201,78.52,3.95,2.0,1.95
+West Africa,Second Class,228,178,78.07,3.95,2.0,1.95
+Southern Europe,Same Day,197,106,53.81,0.54,0.0,0.54
+Caribbean,Same Day,147,79,53.74,0.54,0.0,0.54
+South Asia,Same Day,171,90,52.63,0.53,0.0,0.53
+West of USA,Same Day,135,70,51.85,0.52,0.0,0.52
+South America,Same Day,253,129,50.99,0.51,0.0,0.51
+Eastern Asia,Same Day,172,86,50.0,0.5,0.0,0.5
+Western Europe,Same Day,498,249,50.0,0.5,0.0,0.5
+Central America,Same Day,470,234,49.79,0.5,0.0,0.5
+East of USA,Same Day,132,65,49.24,0.49,0.0,0.49
+Oceania,Same Day,266,127,47.74,0.48,0.0,0.48
+Southeast Asia,Same Day,197,88,44.67,0.45,0.0,0.45
+Central Africa,Standard Class,318,141,44.34,4.09,4.0,0.09
+Central Asia,Standard Class,103,44,42.72,4.04,4.0,0.04
+East Africa,Standard Class,346,146,42.2,4.04,4.0,0.04
+South of  USA,Standard Class,743,309,41.59,4.01,4.0,0.01
+Southeast Asia,Standard Class,2513,1033,41.11,4.01,4.0,0.01
+Northern Europe,Same Day,200,82,41.0,0.41,0.0,0.41
+Eastern Europe,Standard Class,734,300,40.87,4.02,4.0,0.02
+East of USA,Standard Class,1332,544,40.84,4.05,4.0,0.05
+Oceania,Standard Class,2494,1017,40.78,4.02,4.0,0.02
+Western Europe,Standard Class,5674,2307,40.66,4.01,4.0,0.01
+West Asia,Standard Class,1133,456,40.25,4.0,4.0,0.0
+Central America,Standard Class,5401,2163,40.05,4.0,4.0,0.0
+Eastern Asia,Standard Class,1933,771,39.89,4.0,4.0,0.0
+West of USA,Standard Class,1521,603,39.64,3.98,4.0,-0.02
+US Center,Standard Class,1073,425,39.61,4.0,4.0,0.0
+Southern Africa,Standard Class,245,97,39.59,4.02,4.0,0.02
+South America,Standard Class,2862,1130,39.48,3.98,4.0,-0.02
+South Asia,Standard Class,1878,736,39.19,3.98,4.0,-0.02
+Northern Europe,Standard Class,2149,841,39.13,3.97,4.0,-0.03
+North Africa,Standard Class,603,234,38.81,3.98,4.0,-0.02
+West Africa,Standard Class,733,276,37.65,3.97,4.0,-0.03
+Southern Europe,Standard Class,2045,768,37.56,3.93,4.0,-0.07
+Caribbean,Standard Class,1623,596,36.72,3.94,4.0,-0.06
+Canada,Standard Class,176,58,32.95,3.81,4.0,-0.19
